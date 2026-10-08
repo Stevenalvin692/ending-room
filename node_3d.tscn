@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://cto2yjhnxfo51"]
+
+[ext_resource type="PackedScene" uid="uid://dnnffqwwpeqpw" path="res://ending/scenes/ending_room.glb" id="1_noarx"]
+
+[node name="Node3D" type="Node3D" unique_id=248472391]
+
+[node name="ending_room" parent="." unique_id=971313829 instance=ExtResource("1_noarx")]
